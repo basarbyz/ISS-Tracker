@@ -1,7 +1,6 @@
-# ISS Tracker Robot Arm
+# ISS Tracker Robot Arm (https://imgur.com/a/4wMtx7c)
 
 This project aims to build an ISS (International Space Station) tracker robot arm. The robot arm's pointer will show the real-time location of the ISS. The project utilizes a combination of Python and STM32 microcontroller programming.
-
 ## Overview
 
 The project consists of two main parts:
